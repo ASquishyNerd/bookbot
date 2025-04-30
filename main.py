@@ -1,4 +1,4 @@
-from stats import get_book_text, get_num_words, get_character_count, sort_character_count
+from stats import *
 import sys
 
 def main():
